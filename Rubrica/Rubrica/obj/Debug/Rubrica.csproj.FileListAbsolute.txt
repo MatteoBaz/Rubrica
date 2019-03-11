@@ -1,0 +1,10 @@
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.csprojResolveAssemblyReference.cache
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\bin\Debug\Rubrica.exe.config
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\bin\Debug\Rubrica.exe
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\bin\Debug\Rubrica.pdb
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.exe
+L:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.pdb
+F:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.csprojAssemblyReference.cache
+F:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.csproj.CoreCompileInputs.cache
+F:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.exe
+F:\Dati\Informatica\C#\Melon\Rubrica\Rubrica\obj\Debug\Rubrica.pdb
